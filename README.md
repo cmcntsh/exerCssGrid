@@ -1,4 +1,4 @@
-# V School Assignment - Newsies
+# Not an Assignment. Good Collection of CSS Grid Videos at Bottom.
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 
